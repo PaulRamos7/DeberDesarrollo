@@ -10,9 +10,5 @@ package desarrollo;
  * @author Esparqui
  */
 public class ClaseNueva {
-    public void ClaseNueva(){
-        //https://github.com/PaulRamos7/DeberDesarrollo.git
-        
-    }
     
 }
