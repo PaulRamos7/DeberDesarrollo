@@ -10,5 +10,7 @@ package desarrollo;
  * @author Esparqui
  */
 public class ClaseNueva {
+    public void ClaseNueva(){
+    }
     
 }
