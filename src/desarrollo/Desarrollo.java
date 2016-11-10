@@ -16,6 +16,8 @@ public class Desarrollo {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Josue j=new Josue();
+        j.Nuevo(4);
     }
     
 }
