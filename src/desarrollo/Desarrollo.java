@@ -18,6 +18,7 @@ public class Desarrollo {
         // TODO code application logic here
         Josue j=new Josue();
         j.Nuevo(4);
+        Alex.a();
     }
     
 }
