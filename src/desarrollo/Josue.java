@@ -10,6 +10,12 @@ package desarrollo;
  * @author josuv
  */
 public class Josue {
-    int x;
-    
+
+    public void Nuevo(int x) {
+
+        if (x > 0) {
+            System.out.println("Hola mundo");
+        }
+
+    }
 }
