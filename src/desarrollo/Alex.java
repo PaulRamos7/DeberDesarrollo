@@ -10,5 +10,7 @@ package desarrollo;
  * @author alexin
  */
 public class Alex {
-    
+    public void a(){
+        System.out.println("Aqui estuve");
+    }
 }
