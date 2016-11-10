@@ -11,5 +11,8 @@ package desarrollo;
  */
 public class vane {
    //SDF
+    public static void main(String[] args) {
+        
+    }
  
 }
