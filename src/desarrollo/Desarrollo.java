@@ -20,5 +20,4 @@ public class Desarrollo {
         j.Nuevo(4);
         Alex.a();
     }
-    
 }
